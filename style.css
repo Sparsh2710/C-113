@@ -1,0 +1,19 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    font-family: 'Nerko One', cursive;
+}
+
+canvas {
+    border: solid 3px dodgerblue;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(179, 179, 179);
+}
+
+h1 {
+    font-size: 40px !important;
+}
+
+button {
+    font-size: 25px !important;
+}
